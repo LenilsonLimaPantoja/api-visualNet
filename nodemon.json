@@ -1,0 +1,10 @@
+{
+  "env": {
+    "OPENAI_API_KEY": "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",
+    "MYSQL_USER": "root",
+    "MYSQL_PASSWORD": "ej667aQbYolWR6wvO07w",
+    "MYSQL_DATABASE": "railway",
+    "MYSQL_HOST": "containers-us-west-182.railway.app",
+    "MYSQL_PORT": 6936
+  }
+}
